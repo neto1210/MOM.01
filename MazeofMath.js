@@ -1,5 +1,5 @@
 // MOM.01
-código do inicio do jogo
+//código do inicio do jogo
 var x = 150;
 var y = 160;
 //1 - jogar
