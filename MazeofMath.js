@@ -1,4 +1,4 @@
-# MOM.01
+// MOM.01
 código do inicio do jogo
 var x = 150;
 var y = 160;
